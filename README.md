@@ -14,7 +14,7 @@
 3. -a 为可选参数，用于选择题库中的某一篇文章，需要提供对应的文章编号。
 例如:
 python main.py -f example.json -s 可以显示题库中的所有题目的编号和标题。
-python main.py -f example.json -a 1 可以指定第几篇文章。
+python main.py -f example.json -a 1 可以指定第1篇文章。
 
 ```
 
